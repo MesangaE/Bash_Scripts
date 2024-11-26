@@ -14,7 +14,7 @@ fundamentals of scripting
 
 
 
-# for comments that are ignored by sthe hell
+#  for comments that are ignored by the hell
 
 
 
